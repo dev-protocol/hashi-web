@@ -1,0 +1,10 @@
+{
+  "name": "@devprotocol/hashi-lit",
+  "version": "0.1.0-dev",
+  "description": "Hashi's implementation using native web components.",
+  "main": "index.js",
+  "repository": "https://github.com/dev-protocol/hashi-lit",
+  "author": "MatteuSan",
+  "license": "MIT",
+  "private": false
+}

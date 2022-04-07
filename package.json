@@ -1,0 +1,28 @@
+{
+  "name": "@devprotocol/hashi-lit",
+  "private": true,
+  "version": "0.1.0-dev",
+  "main": "dist/my-element.es.js",
+  "exports": {
+    ".": "./dist/my-element.es.js"
+  },
+  "types": "types/my-element.d.ts",
+  "files": [
+    "dist",
+    "types"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "@devprotocol/hashi": "1.0.0-beta",
+    "lit": "2.2.1"
+  },
+  "devDependencies": {
+    "clsx": "1.1.1",
+    "sass": "1.49.11",
+    "typescript": "4.6.3",
+    "vite": "2.9.1"
+  }
+}
