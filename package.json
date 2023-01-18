@@ -16,7 +16,7 @@
     "build": "tsc && vite build"
   },
   "dependencies": {
-    "@devprotocol/hashi": "1.0.0-beta",
+    "@devprotocol/hashi": "1.7.0",
     "lit": "2.2.1"
   },
   "devDependencies": {

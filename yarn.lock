@@ -2,22 +2,22 @@
 # yarn lockfile v1
 
 
-"@devprotocol/hashi@1.0.0-beta":
-  version "1.0.0-beta"
-  resolved "https://registry.yarnpkg.com/@devprotocol/hashi/-/hashi-1.0.0-beta.tgz#6c3daaeccd16ea19706969af4f250e741f298558"
-  integrity sha512-zdvfjHOlygu2V5u3PhPEMi7hTWxEMx74mjyXiKuJPE+jEkmSYGm8C9xaagqKFamrilKx6pbv1RbQCQdrDy8RFA==
+"@devprotocol/hashi@1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@devprotocol/hashi/-/hashi-1.7.0.tgz#5803fb9bc28feb141c1d8c1617004337bc8789c9"
+  integrity sha512-OPThDmJDZEg65fTGyUXN6dMBQ7O/SHJmGr25s/jVe0gkTvjEdsLalBe8VhZGPZ3Z4m0ZnIyCQU6C7bQD5bcweQ==
   dependencies:
-    "@matteusan/sentro" "0.1.21"
+    "@matteusan/sentro" "0.1.25"
 
 "@lit/reactive-element@^1.3.0":
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/@lit/reactive-element/-/reactive-element-1.3.1.tgz#3021ad0fa30a75a41212c5e7f1f169c5762ef8bb"
   integrity sha512-nOJARIr3pReqK3hfFCSW2Zg/kFcFsSAlIE7z4a0C9D2dPrgD/YSn3ZP2ET/rxKB65SXyG7jJbkynBRm+tGlacw==
 
-"@matteusan/sentro@0.1.21":
-  version "0.1.21"
-  resolved "https://registry.yarnpkg.com/@matteusan/sentro/-/sentro-0.1.21.tgz#ed8360dcc755040653939326b077b6d413707015"
-  integrity sha512-Cha0Adu9PqHURzexPIAu7d/fIbW7uduBpXFHm4FewSQ6O35lvVBLZYqiSjx5jDrfrqLyzJcv0dETFPNmVTaBow==
+"@matteusan/sentro@0.1.25":
+  version "0.1.25"
+  resolved "https://registry.yarnpkg.com/@matteusan/sentro/-/sentro-0.1.25.tgz#626f8795ada5f31a746acad80c4c49cc6134d879"
+  integrity sha512-WADroUoOEnbGBij9ZSJkGbYp2yiNVi6UJZymJsSVyo1zuekM1pIzKF8+nI31SGt5wS3ChmOOR5+w1Z7c6jg9TQ==
 
 "@types/trusted-types@^2.0.2":
   version "2.0.2"
@@ -338,7 +338,7 @@ rollup@^2.59.0:
   optionalDependencies:
     fsevents "~2.3.2"
 
-sass@^1.49.11:
+sass@1.49.11:
   version "1.49.11"
   resolved "https://registry.yarnpkg.com/sass/-/sass-1.49.11.tgz#1ffeb77faeed8b806a2a1e021d7c9fd3fc322cb7"
   integrity sha512-wvS/geXgHUGs6A/4ud5BFIWKO1nKd7wYIGimDk4q4GFkJicILActpv9ueMT4eRGSsp1BdKHuw1WwAHXbhsJELQ==
