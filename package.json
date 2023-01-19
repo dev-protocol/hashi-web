@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@devprotocol/hashi": "1.0.0-beta",
-    "lit": "2.2.1"
+    "lit": "2.6.1"
   },
   "devDependencies": {
     "clsx": "1.1.1",
