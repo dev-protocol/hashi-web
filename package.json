@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@devprotocol/hashi": "1.8.0",
-    "lit": "2.6.1"
+    "lit": "2.7.0"
   },
   "devDependencies": {
     "gulp": "4.0.2",
